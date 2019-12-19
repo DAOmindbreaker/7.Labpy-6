@@ -1,4 +1,4 @@
-<h1> Program Sederhana Python Package Dan Module </h1>
+<h1> Program Sederhana Python Dictionary 2 </h1>
 
 Buat program sederhana untuk menambahkan data kedalam sebuah list dengan rincian sebagai berikut :
 1. **Daftar_nilai.py** berisi modul untuk: tambah_data,ubah_data,hapus_data,dan cari_data
